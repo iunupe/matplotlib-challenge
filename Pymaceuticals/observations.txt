@@ -1,0 +1,4 @@
+Observations:
+1. For the Capomulin Regimen, a strong positive correlation exists.
+2. For mouse x401 (exposed to the Capomullin regimen), tumor volume decreased by half over time.
+3. The Infubinol and Ceftamin regimens yielded the highest tumor volumes of the top 4, which suggests these drugs are not as effective as Capomulin and Ramicane.
